@@ -5,9 +5,8 @@ Reference the Writing User Stories final project guide in the course portal for 
 ## Outline User Roles
 
 [👉🏾👉🏾👉🏾 Include at least at least 1, but no more than 3, user roles.]
-- Admin
-- User
-
+- Admin: manages the platform and oversees playlist curation, user activities, and community engagement.
+- User: general user who interacts with the app to discover music, create playlists, and collaborate with friends.
 ## Draft User Stories
 
 [👉🏾👉🏾👉🏾 Include at least at least 10 user stories in this format:]
@@ -30,4 +29,4 @@ Reference the Writing User Stories final project guide in the course portal for 
 
 - As a returning user, I want to see my listening history, so that I can revisit songs I enjoyed in the past.
 
-- As a music lover, I want to integrate the app with my Spotify account, so that I can seamlessly access and manage my existing playlists.
+- As a user, I want to explore trending and popular playlists created by the community so that I can discover new music that others are enjoying.
