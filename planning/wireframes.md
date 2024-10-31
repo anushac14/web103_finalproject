@@ -4,18 +4,17 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+Login Screen, Playlist Management Screen,  Music Recommendation Screen 
 
-## Wireframe 1: [page title]
+## Wireframe 1: Login Screen
+<img width="591" alt="Screenshot 2024-10-31 at 1 29 14 AM" src="https://github.com/user-attachments/assets/ff1086f3-d15e-4aa9-b46e-ac5ccbf25bbf">
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+## Wireframe 2: Playlist Management Screen
 
-## Wireframe 2: [page title]
+<img width="591" alt="Screenshot 2024-10-31 at 1 29 44 AM" src="https://github.com/user-attachments/assets/44915491-2918-4e8a-8b74-364b029aebad">
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
 
-## Wireframe 3: [page title]
+## Wireframe 3: Music Recommendation Screen 
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+<img width="589" alt="Screenshot 2024-10-31 at 1 29 57 AM" src="https://github.com/user-attachments/assets/73e65bde-15f5-454b-9911-8101057c592a">
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
