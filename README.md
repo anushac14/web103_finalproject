@@ -30,7 +30,7 @@ Backend:
 - Deployment: Railway
   
 ## Features
- ✔ ### Login Feature (User Story 0):
+ ✅ ### Login Feature (User Story 0):
  - User Feature: Users can log in to their own personal accounts
 
 
