@@ -33,6 +33,10 @@ Backend:
 ### Login Feature (User Story 0):
  - User Feature: Users can log in to their own personal accounts
 
+
+https://github.com/user-attachments/assets/8814854c-11b2-4457-b02e-27a07fa0e513
+
+
 ### Playlist Management (User Story 1): 
 - User Feature: Users can create, edit, and delete playlists to manage their favorite songs.
 - Technical Feature: Implement POST/GET requests for playlist creation, PATCH for editing playlists, and DELETE requests for playlist removal.
