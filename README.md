@@ -30,6 +30,9 @@ Backend:
 - Deployment: Railway
   
 ## Features
+### Login Feature (User Story 0):
+ - User Feature: Users can log in to their own personal accounts
+
 ### Playlist Management (User Story 1): 
 - User Feature: Users can create, edit, and delete playlists to manage their favorite songs.
 - Technical Feature: Implement POST/GET requests for playlist creation, PATCH for editing playlists, and DELETE requests for playlist removal.
