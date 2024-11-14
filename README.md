@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/8814854c-11b2-4457-b02e-27a07fa0e513
 ### Personalized Recommendations (User Story 2): 
 - User Feature: Recommendations are generated based on the user's past listening habits and preferences.
 - Technical Feature: Implement a recommendation algorithm that analyzes user data (listening history or selected genres) and returns recommendations via GET requests.
-[gif goes here]
+https://imgur.com/a/5whXQ3v
 ### Collaborative Playlists (User Story 3): 
 - User Feature: Friends can collaborate on playlists, allowing multiple users to contribute songs.
 - Technical Feature: Implement a many-to-many database relationship with a join table to link users to collaborative playlists. Use POST requests to add collaborators and DELETE to remove them.
