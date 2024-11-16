@@ -41,10 +41,12 @@ https://github.com/user-attachments/assets/8814854c-11b2-4457-b02e-27a07fa0e513
 - User Feature: Users can create, edit, and delete playlists to manage their favorite songs.
 - Technical Feature: Implement POST/GET requests for playlist creation, PATCH for editing playlists, and DELETE requests for playlist removal.
 [gif goes here]
+
  ✅ ### Personalized Recommendations (User Story 2): 
 - User Feature: Recommendations are generated based on the user's past listening habits and preferences.
 - Technical Feature: Implement a recommendation algorithm that analyzes user data (listening history or selected genres) and returns recommendations via GET requests.
 https://imgur.com/a/5whXQ3v
+
 ### Collaborative Playlists (User Story 3): 
 - User Feature: Friends can collaborate on playlists, allowing multiple users to contribute songs.
 - Technical Feature: Implement a many-to-many database relationship with a join table to link users to collaborative playlists. Use POST requests to add collaborators and DELETE to remove them.
