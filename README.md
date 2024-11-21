@@ -35,7 +35,7 @@ Backend:
 - User Feature: Users can create, edit, and delete playlists to manage their favorite songs.
 - Technical Feature: Implement POST/GET requests for playlist creation, PATCH for editing playlists, and DELETE requests for playlist removal.
 
-https://github.com/user-attachments/assets/94a5db19-3e5e-450d-8787-1e339d3cfd0d
+https://github.com/user-attachments/assets/65537d2b-77d5-4f2a-a393-abf9e9dd1b94
 
 ### ✅ Playlist Overview (User Story 2): 
 - User Feature: Users can view all playlists at once and view the songs in each playlist by clicking "Play" Button
