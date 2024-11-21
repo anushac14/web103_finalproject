@@ -71,7 +71,11 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ## Final Demo GIF
 
-🔗 [Here's a GIF walkthrough of the final project](👉🏾👉🏾👉🏾 your link here)
+
+
+https://github.com/user-attachments/assets/da8daf07-18e8-419b-ab90-b5fbef16f7a0
+
+
 
 ## Reflection
 
