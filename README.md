@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Anusha Chinthamaduka, Vinh Le, Rajashekar V
+Designed and developed by: Anusha Chinthamaduka, Vinh Le
 
 🔗 Link to deployed app:
 
