@@ -57,7 +57,10 @@ https://github.com/user-attachments/assets/9503483e-3812-4c84-971a-ed1604c583b9
 
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
-Strech: Connect OpenAI API's to let users generate their own music or event/concert alert features.
+Strech: Uses NLP and machine learning to analyze text data, recommend songs, and retrieve relevant album covers. It uses a dataset from Kaggle to train the model on song metadata and descriptions, and provides recommendations based on similarity in song descriptions and other attributes.
+- Dataset: Spotify Million Song Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset) from Kaggle
+- Github: [Link model](https://github.com/web103-codepath-g25/melodymix/tree/main/recommendation_service)
+- Link demo: https://imgur.com/a/5whXQ3v
 
 ## Installation Instructions
 
