@@ -37,9 +37,9 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
   - [ x] At least one redirection
   - [ x] At least one interaction that the user can initiate and complete on the same page without navigating to a new page
   - [x ] Dynamic frontend routes created with React Router
-  - [ ] Hierarchically designed React components
-    - [ ] Components broken down into categories, including Page and Component types
-    - [ ] Corresponding container components and presenter components as appropriate
+  - [x ] Hierarchically designed React components
+    - [ x] Components broken down into categories, including Page and Component types
+    - [x ] Corresponding container components and presenter components as appropriate
 - [ x] The project includes dynamic routes for both frontend and backend apps
 - [ ] The project is deployed on Railway with all pages and features working
 
@@ -48,7 +48,7 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 👉🏾👉🏾👉🏾 Check off each completed feature below.
 
 - [x ] The project gracefully handles errors
-- [ ] The project includes a one-to-one database relationship
+- [x ] The project includes a one-to-one database relationship
 - [ ] The project includes a slide-out pane or modal as appropriate for your use case
 - [ ] The project includes a unique field within the join table
 - [ ] The project includes a custom non-RESTful route with corresponding controller actions
