@@ -59,10 +59,13 @@ https://imgur.com/a/5whXQ3v
 - User Feature: Notifications for upcoming concerts based on user preferences and favorite artists.
 - Technical Feature: Set up a GET request to fetch concert data using an external API and match it with the user’s favorite artists, sending notifications.
 [gif goes here]
-### Music Filtering System (User Story 5): 
-- User Feature: Users can filter recommendations by genre, mood, or activity.
-- Technical Feature: Implement GET requests with query parameters that filter the music database by genre, mood, or activity.
-[gif goes here]
+### ✅ Music Filtering System (User Story 5): 
+- User Feature: Users can filter songs based on artist, genre, etc
+- Technical Feature: Implement GET requests with query parameters that filter artist, genre, and more
+
+https://github.com/user-attachments/assets/9503483e-3812-4c84-971a-ed1604c583b9
+
+
 ### Cross-Device Syncing (User Story 6): 
 - User Feature: Playlists sync across all devices for a seamless music experience.
 - Technical Feature: Store playlists in a persistent database with a GET request to retrieve playlists based on the logged-in user’s data across devices. Implement session management with tokens.
