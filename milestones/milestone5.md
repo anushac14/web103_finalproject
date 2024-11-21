@@ -77,20 +77,20 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Effectively implemented CRUD functionality and successfully integrated the backend and frontend, ensuring smooth data flow.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Debugging complex API requests and resolving database schema conflicts were significant challenges 
 
 ### 3. What were some of the highlights or achievements that you are most proud of in this project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We are proud of creating a seamless user interface and implementing advanced features like filtering. Also building recommendation algorithm
 
 ### 4. Reflecting on your web development journey so far, how have you grown since the beginning of the course?
 
-[👉🏾👉🏾👉🏾 your answer here]
+we have grown more confident in managing full-stack applications and solving integration issues independently.
 
 ### 5. Looking ahead, what are your goals related to web development, and what steps do you plan to take to achieve them?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Our goal is to master responsive design and state management frameworks like Redux, and I plan to achieve this by building additional projects and exploring advanced tutorials.
