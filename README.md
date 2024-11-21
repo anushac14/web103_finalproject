@@ -37,13 +37,19 @@ Backend:
 
 https://github.com/user-attachments/assets/94a5db19-3e5e-450d-8787-1e339d3cfd0d
 
-###  ✅ Personalized Recommendations (User Story 2): 
+### ✅ Playlist Overview (User Story 2): 
+- User Feature: Users can view all playlists at once and view the songs in each playlist by clicking "Play" Button
+- Technical Feature: Implement GET requests for playlist retrieval and songs for each playlist retrival
+
+https://github.com/user-attachments/assets/94a5db19-3e5e-450d-8787-1e339d3cfd0d
+
+###  ✅ Personalized Recommendations (User Story 3): 
 - User Feature: Recommendations are generated based on the user's past listening habits and preferences.
 - Technical Feature: Implement a recommendation algorithm that analyzes user data (listening history or selected genres) and returns recommendations via GET requests.
   
 Link to demo: https://imgur.com/a/5whXQ3v
 
-### ✅ Music Filtering System (User Story 3): 
+### ✅ Music Filtering System (User Story ): 
 - User Feature: Users can filter songs based on artist, genre, etc
 - Technical Feature: Implement GET requests with query parameters that filter artist, genre, and more
 
